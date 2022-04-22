@@ -35,9 +35,9 @@ How do the different variables affect a video's view count to maximise advertise
 
 
 ## Conclusion
--There is a strong relationship between the variables: subscribers, length of video and length of title, and the predictor views. This is true for most categories, except for Video Games, Informative, News and Comedy.
--In general, the number of subscribers of a channel has a strong relationship with the average number of views per video created by the channel.
--Advertisers should choose to sponsor videos from YouTubers with higher subscriber counts in order to get more views and hence maximise customer reach.
+- There is a strong relationship between the variables: subscribers, length of video and length of title, and the predictor views. This is true for most categories, except for Video Games, Informative, News and Comedy.
+- In general, the number of subscribers of a channel has a strong relationship with the average number of views per video created by the channel.
+- Advertisers should choose to sponsor videos from YouTubers with higher subscriber counts in order to get more views and hence maximise customer reach.
 
 
 ## What did we learn from this project?
