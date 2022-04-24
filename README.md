@@ -1,7 +1,7 @@
 # SC1015-Mini-Project
 
 ## Disclaimer
-<br> If you are unable to view our code on GitHub, please use this link to view the Jupyter Notebook
+<br> If you are unable to view the main mini-project code on GitHub, please use this link to view the Jupyter Notebook
 https://nbviewer.org/github/marysoh/SC1015-Mini-Project/blob/main/Codebase/%5BMini-Project%5D%20YouTubers%20Saying%20Things.ipynb
 
 ## [DSF2 - Group 10] SC1015 Data Science and Artificial Intelligence
